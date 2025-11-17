@@ -31,7 +31,44 @@ Soy una desarrolladora Fullstack en formación apasionada por crear aplicaciones
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-#### 📚 Libraries
+## 📚 &nbsp;Libraries
+### 🚀 Frontend
+![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![React DOM](https://img.shields.io/badge/React%20DOM-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![React Router](https://img.shields.io/badge/React_Router-CA4245.svg?style=for-the-badge&logo=reactrouter&logoColor=white)
+![React Bootstrap](https://img.shields.io/badge/React_Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React Toastify](https://img.shields.io/badge/React_Toastify-FF8800.svg?style=for-the-badge)
+![React Paginate](https://img.shields.io/badge/React_Paginate-0088CC.svg?style=for-the-badge)
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4.svg?style=for-the-badge&logo=axios&logoColor=white)
+
+### 🖥️ Backend (JavaScript / Node.js)
+![Express](https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![Dotenv](https://img.shields.io/badge/Dotenv-ECD53F.svg?style=for-the-badge&logo=dotenv&logoColor=black)
+![Discord.js](https://img.shields.io/badge/Discord.js-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![JWT Decode](https://img.shields.io/badge/JWT_Decode-000000.svg?style=for-the-badge)
+
+### 🧠 Inteligencia Artificial / NLP / LLMs
+![LangChain](https://img.shields.io/badge/LangChain-0FAAFF.svg?style=for-the-badge)
+![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-0A0A0A.svg?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/Transformers-FFCA28.svg?style=for-the-badge&logo=huggingface&logoColor=black)
+![HuggingFace Hub](https://img.shields.io/badge/HuggingFace_Hub-FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
+![Tiktoken](https://img.shields.io/badge/Tiktoken-4A90E2.svg?style=for-the-badge)
+
+### 🧩 Bases Vectoriales / Embeddings
+![ChromaDB](https://img.shields.io/badge/ChromaDB-8A2BE2.svg?style=for-the-badge)
+
+### 🎥 Procesamiento de Video y Audio
+![MoviePy](https://img.shields.io/badge/MoviePy-1E88E5.svg?style=for-the-badge)
+![OpenAI Whisper](https://img.shields.io/badge/Whisper-412991.svg?style=for-the-badge)
+![PyDub](https://img.shields.io/badge/PyDub-009688.svg?style=for-the-badge)
+
+### 🐍 Backend (Python)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-39477F.svg?style=for-the-badge)
+![Requests](https://img.shields.io/badge/Requests-000000.svg?style=for-the-badge&logo=python&logoColor=white)
+![Python Multipart](https://img.shields.io/badge/Python_Multipart-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Numpy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
