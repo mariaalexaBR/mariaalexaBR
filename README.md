@@ -141,8 +141,8 @@ Plataforma que conecta estudiantes con mentores. Incluye autenticación, panel, 
 ---
 
 # 📬 Contáctame
-**LinkedIn:** https://linkedin.com/in/usuario-ejemplo  
-**Email:** usuario@example.com
+**LinkedIn:** https://www.linkedin.com/in/maría-alexandra-brenes-rodríguez-7b86b5363 
+**Email:** mariaalexandra.brenes@gmail.com
 
 ---
 
